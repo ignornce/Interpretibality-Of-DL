@@ -1,8 +1,8 @@
-# Resources
-## Goal
-From the intution all knowledge is a fully connected component, will try to find connections between so far not connected components 
-to have better understanding  first ML then DL. Main emphasis is on  understanding what concepts represent and how they can be connected
-for the purpose of interpretability.
+## Goal and motivation by @umutz
+From the intution all knowledge is a fully connected component, will try to find connections between so far not connected components with respect to currrent knowledge graph.
+To have better understanding  first ML then DL, main emphasis is on  understanding what concepts represents and how they can be connected for the purpose of interpretability.
+
++ Statistical Laerning --> Information theory --> Random Matrix Theory --- > Machine Learning
 
 ### Related Open Questions
 + Where is  the line between determenistic and probabilistic systems. (If all conditions known are there any probability at all  qm?)

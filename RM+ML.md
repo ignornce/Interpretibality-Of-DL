@@ -1,5 +1,5 @@
-#Resources
-##Goal
+# Resources
+## Goal
 From the intution all knowledge is a fully connected component, will try to find connections between so far not connected components 
 to have better understanding  first ML then DL. Main emphasis is on  understanding what concepts represent and how they can be connected
 for the purpose of interpretability.

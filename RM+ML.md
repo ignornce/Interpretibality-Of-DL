@@ -9,18 +9,18 @@ for the purpose of interpretability.
 
 
 ## Relavant Knowledge
-+ Base Fundemental
+### Base Fundemental
  + Linear Algeabra
  + Statistical Learning
-+ Connected
+### Connected
   + Information Theory  
     + Simon Instute| An Observation on Generalization | https://www.youtube.com/watch?v=AKMuA_TVz3A&t=2129s
   + Optimization
-+  Somehow Connected
+###  Somehow Connected
   + Functional Analysis
   + Complex Analysis
   + Chaos Theory
-+ Will be useful
+### Will be useful
   + Category Theory 
     +  Category Theory: Exploring Math’s Enigmas With Eugenia Cheng  https://www.youtube.com/watch?v=etxCj8l5gTI&t=2346s
        explains where in ml category theory is used, can be useful.

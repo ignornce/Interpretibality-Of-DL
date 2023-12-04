@@ -4,11 +4,11 @@ From the intution all knowledge is a fully connected component, will try to find
 to have better understanding  first ML then DL. Main emphasis is on  understanding what concepts represent and how they can be connected
 for the purpose of interpretability.
 
-###Related Open Questions
+### Related Open Questions
 + Where is  the line between determenistic and probabilistic systems. (If all conditions known are there any probability at all  qm?)
 
 
-##Relavant Knowledge
+## Relavant Knowledge
 + Base Fundemental
  + Linear Algeabra
  + Statistical Learning
@@ -34,6 +34,6 @@ for the purpose of interpretability.
   + This playlist covers essence + geometric meanings of linaer algeabra operations. Rather then memorising  formules to know how to calculate
   some quantites, it also shows why to calculate and what does the quantites stands for.
   
-###RM+ML Course by Roland Speicher
+### RM+ML Course by Roland Speicher
 + Video Series
 + Lecture notes https://rolandspeicher.com/lectures/course-on-high-dimensional-analysis-random-matrices-and-machine-learning-summer-term-2023/

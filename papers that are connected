@@ -14,11 +14,15 @@ https://arxiv.org/abs/2309.17290
 + LANGUAGE MODELS REPRESENT SPACE AND TIME
  https://arxiv.org/pdf/2310.02207.pdf
 + Beyond Surface Statistics : https://arxiv.org/pdf/2306.05720.pdf
++ https://arxiv.org/abs/2308.09124:Linearity of Relation Decoding in Transformer Language Models
++ https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB :Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron
 
 ## Category Theory
 
 ## In Context Learning Mystery
 + In-Context Learning Creates Task Vectors: https://arxiv.org/pdf/2310.15916.pdf
++ What learning algorithm is in-context learning? Investigations with linear models: https://arxiv.org/abs/2211.15661:
+
 
 ## LLMs doing Math:
 + https://huggingface.co/papers/2309.03241

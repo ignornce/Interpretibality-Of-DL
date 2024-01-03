@@ -1,4 +1,5 @@
 # Interpretibality-Of-DL
+#### For some reason almost all of the great ideas to interpret whats going on in  Deep Learning comes from physics.
 Resources for ,Random Matrix theory and Machine Learning connections.This repo will serve as history + roadmap for learning ML and DL from math  and interpretability focused view for software engineers as myself.
 + Ideas for self learning and accumulation of research topics to follow.
 + Should fetch resources for math roots and complex analysis for ml and dl in the future from rmt perspective. 

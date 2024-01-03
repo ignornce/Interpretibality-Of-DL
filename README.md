@@ -18,3 +18,8 @@ From the intution all knowledge is a fully connected component, will try to find
 + More detailed linaer algeabra Linear Algeabra Done Right.
 + Probablistic Machine Learning : https://probml.github.io/pml-book/book2.html
   
+## Major Questions
++ HTF ( how the fuck) in context learning works
++ HTF we cant estimate performance of an DL architecture before we actually train it. Its just computation whats missing ?
+  + What changes when we make a DL deeper or wider ?
+  + As in big O notation for programming algorithms a notion of scalability with data for an DL architecture(function space?) is needed. 

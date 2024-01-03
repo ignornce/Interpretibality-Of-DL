@@ -15,4 +15,6 @@ From the intution all knowledge is a fully connected component, will try to find
 
 ###  Math fundementals Related
 + Best resource for math on ML  https://github.com/mml-book/mml-book.github.io
++ More detailed linaer algeabra Linear Algeabra Done Right.
+   
   

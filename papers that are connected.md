@@ -9,13 +9,12 @@
 + PCA-based multi-task learning: a random matrix approach
 + A CONCENTRATION OF MEASURE AND RANDOM MATRIX APPROACH TO LARGE-DIMENSIONAL ROBUST STATISTICS
 ## Information Theory
-1- Grokking as Compression: A Nonlinear Complexity Perspective 
-  https://arxiv.org/pdf/2310.05918.pdf 
-2-  In search of dispersed memories: Generative diffusion models are associative memory networks
+- Grokking as Compression: A Nonlinear Complexity Perspective  https://arxiv.org/pdf/2310.05918.pdf 
+-  In search of dispersed memories: Generative diffusion models are associative memory networks
 https://arxiv.org/abs/2309.17290
-3- White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?
+- White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?
   https://arxiv.org/pdf/2311.13110.pdf
-4- White-Box Transformers via Sparse Rate Reduction shorter version : https://arxiv.org/pdf/2306.01129.pdf  
+- White-Box Transformers via Sparse Rate Reduction shorter version : https://arxiv.org/pdf/2306.01129.pdf  
 
 ## Anthropic Mechanistic Interpretability
 + https://transformer-circuits.pub/2023/monosemantic-features/index.html

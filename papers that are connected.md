@@ -67,3 +67,6 @@ https://arxiv.org/abs/2309.17290
 ## Physic models in DL
 + https://www.youtube.com/watch?v=XLNmgviQHPA LEGO paper
 + 
+## Physics Methods in ML
++ Physics-Informed Machine Learning: A Survey
+on Problems, Methods and Applications : Survey

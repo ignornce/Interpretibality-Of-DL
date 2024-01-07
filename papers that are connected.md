@@ -2,16 +2,26 @@
 + https://arxiv.org/abs/1812.03403 | Statistical thresholds for Tensor PCA
 + A Random Matrix Perspective on Random Tensors: https://www.jmlr.org/papers/volume23/21-1038/21-1038.pdf
 + MATRICES WITH GAUSSIAN NOISE: OPTIMAL ESTIMATES FOR SINGULAR SUBSPACE PERTURBATION
-  + MNIST related
-    + A Large Dimensional Analysis of Least Squares **Support Vector Machines**
-    + Random Matrix Improved **Subspace Clustering**
-    + Sparse Quantized **Spectral Clustering**
-    + **SEMI SUPERVISED LAERNING**  Random Matrix Analysis to Balance between Supervised
-and Unsupervised Learning under the Low Density Separation Assumptioncan be used in mnist-1d again
++ Two-way kernel matrix puncturing:
 +  !!! Covariance discriminative power of kernel clustering methods **IMPORTANT FOR UNDERSTANDING SPECTRAL CLUSTERING METHODS** 
 + PCA-based multi-task learning: a random matrix approach
 + A CONCENTRATION OF MEASURE AND RANDOM MATRIX APPROACH TO LARGE-DIMENSIONAL ROBUST STATISTICS
 + A RANDOM MATRIX APPROACH TO NEURAL NETWORKS
++ Two-way kernel matrix puncturing:
+towards resource-efficient PCA and spectral clustering
+#### MNIST related in RMT
+  + A Large Dimensional Analysis of Least Squares **Support Vector Machines**
+  + Random Matrix Improved **Subspace Clustering**
+  + Sparse Quantized **Spectral Clustering**
+  + **SEMI SUPERVISED LAERNING**  Random Matrix Analysis to Balance between Supervised
+and Unsupervised Learning under the Low Density Separation Assumptioncan be used in mnist-1d again
+
+#### Footprint improvement 
++ RANDOM MATRICES IN SERVICE OF ML FOOTPRINT:
+TERNARY RANDOM FEATURES WITH NO PERFORMANCE LOSS
+
+---- 
+
 ## Information Theory
 - Grokking as Compression: A Nonlinear Complexity Perspective  https://arxiv.org/pdf/2310.05918.pdf 
 -  In search of dispersed memories: Generative diffusion models are associative memory networks

@@ -3,9 +3,12 @@
 + A Random Matrix Perspective on Random Tensors: https://www.jmlr.org/papers/volume23/21-1038/21-1038.pdf
 + MATRICES WITH GAUSSIAN NOISE: OPTIMAL ESTIMATES FOR SINGULAR SUBSPACE PERTURBATION
   + MNIST related
-    + A Large Dimensional Analysis of Least Squares Support Vector Machines
-    + Random Matrix Improved Subspace Clustering
-    + Sparse Quantized Spectral Clustering
+    + A Large Dimensional Analysis of Least Squares **Support Vector Machines**
+    + Random Matrix Improved **Subspace Clustering**
+    + Sparse Quantized **Spectral Clustering**
+    + **SEMI SUPERVISED LAERNING**  Random Matrix Analysis to Balance between Supervised
+and Unsupervised Learning under the Low Density Separation Assumptioncan be used in mnist-1d again
+
 + PCA-based multi-task learning: a random matrix approach
 + A CONCENTRATION OF MEASURE AND RANDOM MATRIX APPROACH TO LARGE-DIMENSIONAL ROBUST STATISTICS
 ## Information Theory

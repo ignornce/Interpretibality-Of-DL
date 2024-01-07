@@ -8,7 +8,7 @@
     + Sparse Quantized **Spectral Clustering**
     + **SEMI SUPERVISED LAERNING**  Random Matrix Analysis to Balance between Supervised
 and Unsupervised Learning under the Low Density Separation Assumptioncan be used in mnist-1d again
-
++  !!! Covariance discriminative power of kernel clustering methods **IMPORTANT FOR UNDERSTANDING SPECTRAL CLUSTERING METHODS** 
 + PCA-based multi-task learning: a random matrix approach
 + A CONCENTRATION OF MEASURE AND RANDOM MATRIX APPROACH TO LARGE-DIMENSIONAL ROBUST STATISTICS
 + A RANDOM MATRIX APPROACH TO NEURAL NETWORKS

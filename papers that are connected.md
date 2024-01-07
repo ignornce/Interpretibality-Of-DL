@@ -11,6 +11,7 @@ and Unsupervised Learning under the Low Density Separation Assumptioncan be used
 
 + PCA-based multi-task learning: a random matrix approach
 + A CONCENTRATION OF MEASURE AND RANDOM MATRIX APPROACH TO LARGE-DIMENSIONAL ROBUST STATISTICS
++ A RANDOM MATRIX APPROACH TO NEURAL NETWORKS
 ## Information Theory
 - Grokking as Compression: A Nonlinear Complexity Perspective  https://arxiv.org/pdf/2310.05918.pdf 
 -  In search of dispersed memories: Generative diffusion models are associative memory networks

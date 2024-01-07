@@ -16,7 +16,9 @@ towards resource-efficient PCA and spectral clustering
   + **SEMI SUPERVISED LAERNING**  Random Matrix Analysis to Balance between Supervised
 and Unsupervised Learning under the Low Density Separation Assumptioncan be used in mnist-1d again
 ### Understanding NNs via Random matrix theory:
-+ DEEP NEURAL NETWORKS AS GAUSSIAN PROCESSES 
++ DEEP NEURAL NETWORKS AS GAUSSIAN PROCESSES
+### Theory on Universiality  of GMM
++ Classification of Heavy-tailed Features in High Dimensions: a Superstatistical Approach
 #### Footprint improvement 
 + RANDOM MATRICES IN SERVICE OF ML FOOTPRINT:
 TERNARY RANDOM FEATURES WITH NO PERFORMANCE LOSS

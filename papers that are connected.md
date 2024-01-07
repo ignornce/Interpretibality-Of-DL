@@ -2,6 +2,8 @@
 + https://arxiv.org/abs/1812.03403 | Statistical thresholds for Tensor PCA
 + A Random Matrix Perspective on Random Tensors: https://www.jmlr.org/papers/volume23/21-1038/21-1038.pdf
 + MATRICES WITH GAUSSIAN NOISE: OPTIMAL ESTIMATES FOR SINGULAR SUBSPACE PERTURBATION
+  + MNIST related
+    + A Large Dimensional Analysis of Least Squares Support Vector Machines
 ##Information Theory
 1- Grokking as Compression: A Nonlinear Complexity Perspective 
   https://arxiv.org/pdf/2310.05918.pdf 

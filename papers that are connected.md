@@ -10,6 +10,8 @@
 + A RANDOM MATRIX APPROACH TO NEURAL NETWORKS
 + Two-way kernel matrix puncturing:
 towards resource-efficient PCA and spectral clustering
++ KERNEL SPECTRAL CLUSTERING OF LARGE DIMENSIONAL DATA
+  + Its about theorotical base of the kernal spectral clustering. 
 #### MNIST related in RMT
   + A Large Dimensional Analysis of Least Squares **Support Vector Machines**
   + Random Matrix Improved **Subspace Clustering**

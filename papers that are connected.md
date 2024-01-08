@@ -3,7 +3,8 @@
 + A Random Matrix Perspective on Random Tensors: https://www.jmlr.org/papers/volume23/21-1038/21-1038.pdf
 + MATRICES WITH GAUSSIAN NOISE: OPTIMAL ESTIMATES FOR SINGULAR SUBSPACE PERTURBATION
 + Two-way kernel matrix puncturing:
-+  !!! Covariance discriminative power of kernel clustering methods **IMPORTANT FOR UNDERSTANDING SPECTRAL CLUSTERING METHODS** 
++  !!! Covariance discriminative power of kernel clustering methods **IMPORTANT FOR UNDERSTANDING SPECTRAL CLUSTERING METHODS**
+  + Its to better understand performance of the used kernal using rmt.  
 + PCA-based multi-task learning: a random matrix approach
 + A CONCENTRATION OF MEASURE AND RANDOM MATRIX APPROACH TO LARGE-DIMENSIONAL ROBUST STATISTICS
 + A RANDOM MATRIX APPROACH TO NEURAL NETWORKS

@@ -11,7 +11,8 @@
 + Two-way kernel matrix puncturing:
 towards resource-efficient PCA and spectral clustering
 + KERNEL SPECTRAL CLUSTERING OF LARGE DIMENSIONAL DATA
-  + Its about theorotical base of the kernal spectral clustering. 
+  + Its about theorotical base of the kernal spectral clustering.
++ Transformers are uninterpretable with myopic methods: a case study with bounded Dyck grammars
 #### MNIST related in RMT
   + A Large Dimensional Analysis of Least Squares **Support Vector Machines**
   + Random Matrix Improved **Subspace Clustering**

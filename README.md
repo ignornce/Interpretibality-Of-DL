@@ -1,3 +1,11 @@
+## Physics Lens
++ Physics-Informed Machine Learning: A Survey
+on Problems, Methods and Applications : Survey
+ ### Quantum Field Theory and NNS
+ + Neural Network Field Theories:
+Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf   
+
+---
 ## Random Matrix Theory
 + https://arxiv.org/abs/1812.03403 | Statistical thresholds for Tensor PCA
 + A Random Matrix Perspective on Random Tensors: https://www.jmlr.org/papers/volume23/21-1038/21-1038.pdf
@@ -72,5 +80,10 @@ https://arxiv.org/abs/2309.17290
 + https://www.youtube.com/watch?v=XLNmgviQHPA LEGO paper
 + 
 ## Physics Methods in ML
-+ Physics-Informed Machine Learning: A Survey
-on Problems, Methods and Applications : Survey
++ # Main ResearchLine Interests
++ Transformers are X papers from lens of Category Theory
+
+## Random Matrix Theory Related
++  NLTK https://github.com/google/neural-tangents
+
+

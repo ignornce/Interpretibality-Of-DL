@@ -44,7 +44,12 @@ https://arxiv.org/abs/2309.17290
 - White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?
   https://arxiv.org/pdf/2311.13110.pdf
 - White-Box Transformers via Sparse Rate Reduction shorter version : https://arxiv.org/pdf/2306.01129.pdf  
-
+---
+## Category Theory
++ Physical Computing:
+A Category Theoretic Perspective on Physical
+---
+Computation and System Compositionality
 ## Anthropic Mechanistic Interpretability
 + https://transformer-circuits.pub/2023/monosemantic-features/index.html
 

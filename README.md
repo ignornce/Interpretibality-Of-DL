@@ -72,7 +72,8 @@ Computation and System Compositionality
 
 ## Optimal Transort
 + https://www.youtube.com/watch?v=EauDdCzxphE
-
++ https://openreview.net/pdf?id=KiespDPaRH
+  + IMPROVING THE CONVERGENCE OF DYNAMIC NERFS VIA OPTIMAL TRANSPORT
 ## Geometry and Topology in Machine Learning
 + https://www.youtube.com/watch?v=sS8zRGgPLNc
 + Meaning comes from geometry most of the time.

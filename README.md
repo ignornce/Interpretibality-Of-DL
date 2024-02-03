@@ -38,6 +38,10 @@ and Unsupervised Learning under the Low Density Separation Assumptioncan be used
 TERNARY RANDOM FEATURES WITH NO PERFORMANCE LOSS
 
 ---- 
+Interpretability Claims:
++ https://arxiv.org/abs/2312.01429 Interpretability methods might be misleading.
+
+---
 
 ## Information Theory
 - Grokking as Compression: A Nonlinear Complexity Perspective  https://arxiv.org/pdf/2310.05918.pdf 

@@ -1,3 +1,5 @@
+QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4
+
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey
 on Problems, Methods and Applications : Survey
@@ -61,6 +63,7 @@ Computation and System Compositionality
 + https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB :Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron
 + What does self-attention learn from Masked Language Modelling? | https://arxiv.org/pdf/2304.07235.pdf
 ## Category Theory
+ + https://arxiv.org/pdf/2106.07032.pdf Category Theory in Machine Learning
 
 ## In Context Learning Mystery
 + In-Context Learning Creates Task Vectors: https://arxiv.org/pdf/2310.15916.pdf
@@ -89,7 +92,5 @@ Computation and System Compositionality
 + # Main ResearchLine Interests
 + Transformers are X papers from lens of Category Theory
 
-## Random Matrix Theory Related
-+  NLTK https://github.com/google/neural-tangents
 
 

@@ -96,9 +96,9 @@ Computation and System Compositionality
 + 
 ## Physics Methods in ML
 + # Main ResearchLine Interests
-+ Transformers are X papers from lens of Category Theory
-+ https://huggingface.co/papers/2401.17574 | Scavenging Hyena: Distilling Transformers into Long Convolution Models | CNN
-+ transformers are rrns papers
-+ Transformers are graph attention models
+## Transformers are X papers from lens of Category Theory
++ Transformers are Cnn :https://huggingface.co/papers/2401.17574 | Scavenging Hyena: Distilling Transformers into Long Convolution Models | 
++ transformers are rnns papers
++ Transformers are graph attention models| https://thegradient.pub/transformers-are-graph-neural-networks/
 
 

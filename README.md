@@ -69,6 +69,7 @@ Computation and System Compositionality
 + https://arxiv.org/abs/2308.09124:Linearity of Relation Decoding in Transformer Language Models
 + https://www.alignmentforum.org/s/hpWHhjvjn67LJ4xXX/p/iGuwZTHWb6DFY3sKB :Fact Finding: Attempting to Reverse-Engineer Factual Recall on the Neuron
 + What does self-attention learn from Masked Language Modelling? | https://arxiv.org/pdf/2304.07235.pdf
++ https://arxiv.org/pdf/2302.10886v3.pdf | SOME INTRIGUING ASPECTS ABOUT LIPSCHITZ CONTINUITY OF NEURAL NETWORKS
 ## Category Theory
  + https://arxiv.org/pdf/2106.07032.pdf Category Theory in Machine Learning
 
@@ -101,5 +102,4 @@ Computation and System Compositionality
 + Transformers are Cnn :https://huggingface.co/papers/2401.17574 | Scavenging Hyena: Distilling Transformers into Long Convolution Models | 
 + transformers are rnns papers
 + Transformers are graph attention models| https://thegradient.pub/transformers-are-graph-neural-networks/
-
-
++ LLM s are compression https://arxiv.org/pdf/2309.10668.pdf

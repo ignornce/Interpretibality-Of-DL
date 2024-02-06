@@ -54,6 +54,10 @@ https://arxiv.org/abs/2309.17290
   https://arxiv.org/pdf/2311.13110.pdf
 - White-Box Transformers via Sparse Rate Reduction shorter version : https://arxiv.org/pdf/2306.01129.pdf  
 ---
+## Equaivariant NNs
++ https://dmol.pub/dl/Equivariant.html
+### Harmonic Cnn like stuff
+---
 ## Category Theory
 + Physical Computing:
 A Category Theoretic Perspective on Physical

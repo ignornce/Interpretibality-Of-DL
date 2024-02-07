@@ -4,6 +4,9 @@ QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSR
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey
 on Problems, Methods and Applications : Survey
++ Equivariant Flows: Exact Likelihood Generative Learning for Symmetric
+Densities Particles here!!
++ 
  ### Quantum Field Theory and NNS
  + Neural Network Field Theories:
 Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf

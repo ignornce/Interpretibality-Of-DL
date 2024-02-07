@@ -6,7 +6,7 @@ QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSR
 on Problems, Methods and Applications : Survey
 + Equivariant Flows: Exact Likelihood Generative Learning for Symmetric
 Densities Particles here!!
-+ 
++ A mathematical perspective on Transformers. Describes Transformers as Transformers based on their interpretation as interacting particle systems
  ### Quantum Field Theory and NNS
  + Neural Network Field Theories:
 Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf
@@ -110,3 +110,4 @@ Computation and System Compositionality
 + transformers are rnns papers
 + Transformers are graph attention models| https://thegradient.pub/transformers-are-graph-neural-networks/
 + LLM s are compression https://arxiv.org/pdf/2309.10668.pdf
++  A mathematical perspective on Transformers, Says transformers are flow models.!!! 

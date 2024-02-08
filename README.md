@@ -16,7 +16,7 @@ Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf
 
     Gauge equavariant (Flow models) <----Symetry duality  <--QFT == NN
                                                ↓
-                                            lattice  QCD ( Quantum chromodynamics) ---------> Random Matrix Theory ----->> Neural Tangent Kernel 
+ Symetry duality ---> lattice  QCD ( Quantum chromodynamics) ---------> Random Matrix Theory ----->> Neural Tangent Kernel 
                                                                                                         
                                                
 ---

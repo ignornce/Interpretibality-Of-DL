@@ -12,7 +12,13 @@ Densities Particles here!!
 Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf
 + Symmetry-via-Duality:Invariant Neural Network Densities from Parameter-Space Correlators.
   + Discusses duality and symetry approach in qft. Can be used in NTK.  
++ Random Matrix Theory and Quantum Chromodynamics
 
+    Gauge equavariant (Flow models) <----Symetry duality  <--QFT == NN
+                                               ↓
+                                            lattice  QCD ( Quantum chromodynamics) ---------> Random Matrix Theory ----->> Neural Tangent Kernel 
+                                                                                                        
+                                               
 ---
 ## Random Matrix Theory
 + https://arxiv.org/abs/1812.03403 | Statistical thresholds for Tensor PCA

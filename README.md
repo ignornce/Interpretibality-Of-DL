@@ -8,6 +8,7 @@ on Problems, Methods and Applications : Survey
 Densities Particles here!!
 + A mathematical perspective on Transformers. Describes Transformers as Transformers based on their interpretation as interacting particle systems
  ### Quantum Field Theory and NNS
+ + Neural Networks and Quantum Field Theory : https://arxiv.org/abs/2008.08601 
  + Neural Network Field Theories:
 Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf
 + Symmetry-via-Duality:Invariant Neural Network Densities from Parameter-Space Correlators.

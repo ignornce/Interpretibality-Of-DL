@@ -18,7 +18,8 @@ Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf
 + Random Matrix Theory and Quantum Chromodynamics
 + Neural Networks and Quantum Field Theory ( Corner stone paper coming with first intuitions).
   +  https://arxiv.org/pdf/2008.08601.pdf
-  +  
++ Building Quantum Field Theories Out of Neurons
+   https://arxiv.org/abs/2112.04527
 
     Gauge equavariant (Flow models) <----Symetry duality  <--QFT == NN
                                                ↓

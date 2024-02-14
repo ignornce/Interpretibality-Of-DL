@@ -1,6 +1,8 @@
 LLM tasks taxonomy: https://arxiv.org/pdf/2307.10169.pdf
 QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4
 
+
+
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey
 on Problems, Methods and Applications : Survey
@@ -14,6 +16,9 @@ Non-Gaussianity, Actions, and Locality : https://arxiv.org/pdf/2307.03223.pdf
 + Symmetry-via-Duality:Invariant Neural Network Densities from Parameter-Space Correlators.
   + Discusses duality and symetry approach in qft. Can be used in NTK.  
 + Random Matrix Theory and Quantum Chromodynamics
++ Neural Networks and Quantum Field Theory ( Corner stone paper coming with first intuitions).
+  +  https://arxiv.org/pdf/2008.08601.pdf
+  +  
 
     Gauge equavariant (Flow models) <----Symetry duality  <--QFT == NN
                                                ↓

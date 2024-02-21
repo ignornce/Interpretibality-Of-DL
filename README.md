@@ -100,6 +100,10 @@ Computation and System Compositionality
 
 ## LLMs doing Math:
 + https://huggingface.co/papers/2309.03241
++ XVAL: A CONTINUOUS NUMBER ENCODING
+FOR LARGE LANGUAGE MODELS : https://arxiv.org/abs/2310.02989#:~:text=xVal%3A%20A%20Continuous%20Number%20Encoding%20for%20Large%20Language%20Models,-Siavash%20Golkar%2C%20Mariel&text=We%20propose%20xVal%2C%20a%20numerical,vector%20by%20the%20number%20value.
+   
+   
 
 ## Optimal Transort
 + https://www.youtube.com/watch?v=EauDdCzxphE

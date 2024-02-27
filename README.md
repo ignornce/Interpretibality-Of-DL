@@ -118,6 +118,8 @@ FOR LARGE LANGUAGE MODELS : https://arxiv.org/abs/2310.02989#:~:text=xVal%3A%20A
 + https://lena-voita.github.io/posts/neurons_in_llms_dead_ngram_positional.html 
    + https://arxiv.org/pdf/2309.04827.pdf
 + THE LOTTERY TICKET HYPOTHESIS:FINDING SPARSE, TRAINABLE NEURAL NETWORKS https://arxiv.org/pdf/1803.03635.pdf
+   + UNIVERSAL NEURONS IN GPT2 LANGUAGE MODELS
+   + INTERPRETABILITY ILLUSIONS IN THE  the Generalization of Simplified Models 
 ## Physic models in DL
 + https://www.youtube.com/watch?v=XLNmgviQHPA LEGO paper
 + 

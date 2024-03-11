@@ -2,6 +2,10 @@ LLM tasks taxonomy: https://arxiv.org/pdf/2307.10169.pdf
 QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4
 
 
+## Lottery Ticket Hypothesis Thought Tree
++ Position Paper: Challenges and Opportunities in Topological Deep Learning
++ Q: Is dead neurons related ??
++ Related Main Question why deepLearning works better then wideLearning.
 
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey

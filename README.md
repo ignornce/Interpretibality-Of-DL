@@ -6,6 +6,9 @@ QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSR
 + Position Paper: Challenges and Opportunities in Topological Deep Learning
 + Q: Is dead neurons related ??
 + Related Main Question why deepLearning works better then wideLearning.
++ https://arxiv.org/pdf/2402.17457.pdf Why do Learning Rates Transfer?
+Reconciling Optimization and Scaling Limits for Deep Learning
++ Anythig related ?? what is the winning ticket heissan values during training compared to loser tickets.
 
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey

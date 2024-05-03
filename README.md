@@ -1,3 +1,5 @@
++ https://categoricaldeeplearning.com/ category theory in ml all related resources.
+
 LLM tasks taxonomy: https://arxiv.org/pdf/2307.10169.pdf
 QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4
 

@@ -1,5 +1,6 @@
 ### Vision
-https://github.com/NVlabs/RADIO/tree/main vision 
+
++ https://github.com/NVlabs/RADIO/tree/main vision 
 ---
 + https://categoricaldeeplearning.com/ category theory in ml all related resources.
 + category theory intro video  https://www.youtube.com/watch?v=hNRETzXkE5M

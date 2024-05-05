@@ -16,7 +16,8 @@ QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSR
 + https://arxiv.org/pdf/2402.17457.pdf Why do Learning Rates Transfer?
 Reconciling Optimization and Scaling Limits for Deep Learning
 + Anythig related ?? what is the winning ticket heissan values during training compared to loser tickets.
-
+Proof + A unified lottery ticket hypothesis for graph neural networks.
+----
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey
 on Problems, Methods and Applications : Survey

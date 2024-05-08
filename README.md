@@ -17,6 +17,10 @@ QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSR
 Reconciling Optimization and Scaling Limits for Deep Learning
 + Anythig related ?? what is the winning ticket heissan values during training compared to loser tickets.
 Proof + A unified lottery ticket hypothesis for graph neural networks.
++A Survey of Lottery Ticket Hypothesis
+    + Validating the Lottery Ticket Hypothesis with Inertial
+Manifold Theory
+
 ----
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey

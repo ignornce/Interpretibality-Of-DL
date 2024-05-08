@@ -21,6 +21,8 @@ Proof + A unified lottery ticket hypothesis for graph neural networks.
     + Validating the Lottery Ticket Hypothesis with Inertial
 Manifold Theory
 + One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers
++ A Study on the Ramanujan Graph Property of Winning Lottery Tickets
++ Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask
 ----
 ## Physics Lens
 + Physics-Informed Machine Learning: A Survey

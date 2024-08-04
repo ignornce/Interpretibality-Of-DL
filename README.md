@@ -1,7 +1,8 @@
-### Vision
 
-+ https://github.com/NVlabs/RADIO/tree/main vision 
----
+https://www.youtube.com/watch?v=TKWu5Ee9gh8
+
+https://www.youtube.com/watch?v=TKWu5Ee9gh8
+
 + https://categoricaldeeplearning.com/ category theory in ml all related resources.
 + category theory intro video  https://www.youtube.com/watch?v=hNRETzXkE5M
 
@@ -144,6 +145,11 @@ FOR LARGE LANGUAGE MODELS : https://arxiv.org/abs/2310.02989#:~:text=xVal%3A%20A
 ## Geometry and Topology in Machine Learning
 + https://www.youtube.com/watch?v=sS8zRGgPLNc
 + Meaning comes from geometry most of the time.
+
+### Vision
+
++ https://github.com/NVlabs/RADIO/tree/main vision 
+---
 
 
 ## Dead neurons Question/ Mystery

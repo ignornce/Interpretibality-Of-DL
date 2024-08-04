@@ -8,6 +8,16 @@
 LLM tasks taxonomy: https://arxiv.org/pdf/2307.10169.pdf
 QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4
 
+----
+
+## Transformers are X papers from lens of Category Theory
++ Transformers are Cnn :https://huggingface.co/papers/2401.17574 | Scavenging Hyena: Distilling Transformers into Long Convolution Models | 
++ transformers are rnns papers
++ Transformers are graph attention models| https://thegradient.pub/transformers-are-graph-neural-networks/
++ LLM s are compression https://arxiv.org/pdf/2309.10668.pdf
++  A mathematical perspective on Transformers, Says transformers are flow models.!!!
++  
+----
 
 ## Lottery Ticket Hypothesis Thought Tree
 + Position Paper: Challenges and Opportunities in Topological Deep Learning
@@ -147,9 +157,4 @@ FOR LARGE LANGUAGE MODELS : https://arxiv.org/abs/2310.02989#:~:text=xVal%3A%20A
 + 
 ## Physics Methods in ML
 + # Main ResearchLine Interests
-## Transformers are X papers from lens of Category Theory
-+ Transformers are Cnn :https://huggingface.co/papers/2401.17574 | Scavenging Hyena: Distilling Transformers into Long Convolution Models | 
-+ transformers are rnns papers
-+ Transformers are graph attention models| https://thegradient.pub/transformers-are-graph-neural-networks/
-+ LLM s are compression https://arxiv.org/pdf/2309.10668.pdf
-+  A mathematical perspective on Transformers, Says transformers are flow models.!!! 
+

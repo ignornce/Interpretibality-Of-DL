@@ -10,6 +10,8 @@ LLM tasks taxonomy: https://arxiv.org/pdf/2307.10169.pdf
 QFT: resoruce https://www.youtube.com/watch?v=liQoSIaYBJk&list=PLXS_wzQAoIt7GxSRwCaicaSdeKqzYSUq4
 
 ----
+### Category Theo in DL
++ https://arxiv.org/pdf/2402.15332
 
 ## Transformers are X papers from lens of Category Theory
 + Transformers are Cnn :https://huggingface.co/papers/2401.17574 | Scavenging Hyena: Distilling Transformers into Long Convolution Models | 
